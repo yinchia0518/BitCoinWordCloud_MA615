@@ -1,0 +1,12 @@
+name: Bitcoin_Twitter_Wordcloud
+title: Bitcoin_Twitter_Wordcloud
+username:
+account: yinchia0518
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 338089
+bundleId: 1358250
+url: https://yinchia0518.shinyapps.io/Bitcoin_Twitter_Wordcloud/
+when: 1525583009.03383
+asMultiple: FALSE
+asStatic: FALSE
